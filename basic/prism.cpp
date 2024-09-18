@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b,c,h;
+cin>>a>>b>>c>>h;
+cout<<(b*h+(a+b+c)*h);
+
+    return 0;
+}
